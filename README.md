@@ -10,3 +10,4 @@
    * In the dialog that opens, select the APK you want to import into Android Studio.
    * Click OK.
    * [Click here for detailed guide](https://developer.android.com/studio/debug/apk-debugger)
+5. Open eat@NUS on the emulator
